@@ -42,7 +42,8 @@ int main() {
 
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/63ace9ef-6cfb-4e10-9902-0f460bb83777)
+![WhatsApp Image 2025-04-30 at 15 39 56_c914cea7](https://github.com/user-attachments/assets/b3f07800-dc56-4409-a299-7df515d87487)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -89,7 +90,7 @@ int main() {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/89d5bd2d-c42d-4f46-ae6c-06c2abdbc919)
+![WhatsApp Image 2025-04-30 at 15 45 18_bcdabce9](https://github.com/user-attachments/assets/b8fcb247-20d7-4e67-9111-99300070e976)
 
 # RESULT:
 The programs are executed successfully.
