@@ -24,7 +24,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 DEVELOPED BY:VEDAGIRI INDU SREE
 REG.NO:212223230236
-## C Program to print process ID and parent Process ID using Linux API system calls
+## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
 
 ```
 #include <stdio.h>
