@@ -1,9 +1,5 @@
-![image](https://github.com/user-attachments/assets/296e0c58-24b4-47ac-87bf-cc9e70dc6595)# Linux-Process-API-fork-wait-exec-
-Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-
-
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
 
@@ -45,7 +41,7 @@ int main() {
 }
 
 ```
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/63ace9ef-6cfb-4e10-9902-0f460bb83777)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -92,7 +88,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/89d5bd2d-c42d-4f46-ae6c-06c2abdbc919)
 
 # RESULT:
